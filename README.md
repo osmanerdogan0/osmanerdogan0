@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working Mobile Developer
+I'm currently working React Native Developer
 
 
 ## 🌐 Socials:
